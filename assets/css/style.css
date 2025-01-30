@@ -278,11 +278,10 @@ section{
     font-size: 24px;
     font-variant: small-caps;
     width: 18vw;
-    height: 40px;
     border-radius: 10px;
     border: 2px solid  #FED9B7;
     background-color: #0081A7;
-    height: 5.5vh;
+    height: 8vw;
     margin:20px auto;
     cursor: pointer;  
 }
