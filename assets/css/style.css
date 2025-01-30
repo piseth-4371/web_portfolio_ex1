@@ -278,7 +278,7 @@ section{
     font-size: 24px;
     font-variant: small-caps;
     width: 18vw;
-    height: auto;
+    height: 20px;
     border-radius: 10px;
     border: 2px solid  #FED9B7;
     background-color: #0081A7;
@@ -411,7 +411,7 @@ footer div{
     }
     .submit{
         width: 30vw;
-        height:auto;
+        height: 20px;
         margin: 10px auto;
     }
     .contact{
