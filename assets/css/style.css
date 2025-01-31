@@ -277,11 +277,11 @@ section{
 .submit{
     font-size: 24px;
     font-variant: small-caps;
-    width: 18vw;
+    width: 20vw;
     border-radius: 10px;
     border: 2px solid  #FED9B7;
     background-color: #0081A7;
-    height: 5.5vh;
+    height: clamp(50px, 1.2vh, 80px);
     margin:20px auto;
     cursor: pointer;  
 }
@@ -410,6 +410,7 @@ footer div{
     }
     .submit{
         width: 30vw;
+        height: 40px;
         margin: 10px auto;
     }
     .contact{
@@ -482,8 +483,8 @@ footer div{
         width: 80vw;
     }
     .submit{
-        width: 80vw;
-        height: 50px;
+        width: 50vw;
+        height: 40px;
         margin: 10px auto   ;
     }
 }
