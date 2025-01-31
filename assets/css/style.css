@@ -281,7 +281,7 @@ section{
     border-radius: 10px;
     border: 2px solid  #FED9B7;
     background-color: #0081A7;
-    height: clamp(50px, 1.2vh, 80px);
+    height:clamp(50px, 1.2vh, 80px); 
     margin:20px auto;
     cursor: pointer;  
 }
